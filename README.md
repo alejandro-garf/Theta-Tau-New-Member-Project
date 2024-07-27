@@ -62,12 +62,16 @@ The budget for this project is $100.
 
 ## Timeline
 
-- **Week 1-2:** Project planning, team assignments, and initial design phase.
-- **Week 3-4:** CAD modeling and 3D printing of the enclosure.
-- **Week 5-6:** Hardware integration and initial testing.
-- **Week 7-8:** Software installation, configuration, and final testing.
-- **Week 9:** Project review, final adjustments, and presentation.
-
+- **Week 1: 9/27** Project Introduction, Decide Team Lead, Team Assignments and initial design phase.
+- **Week 2: 10/4** Project Proposal Presentation & Materials List Due. Must include individual duties, timeline and plan to complete project on time.
+- **Week 3:** CAD modeling and 3D printing of the enclosure.
+- **Week 4:** Project planning, team assignments, and initial design phase.
+- **Week 5:** Hardware integration and initial testing.
+- **Week 6:** Project planning, team assignments, and initial design phase.
+- **Week 7** Software installation, configuration, and final testing.
+- **Week 8:** Project planning, team assignments, and initial design phase.
+- **Week 9: 11/8 ** Project Deadline
+- **Week 8: 11/15** Project Presentation
 ## Deliverables
 
 - Completed handheld gaming console.
