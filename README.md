@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Handheld Gaming Console project! In this project you will need to design and build a portable gaming console using a Raspberry Pi 4, capable of running retro games and most importantly staying within the Pokemon theme. 
+Welcome to the Handheld Gaming Console project! In this project you will need to design and build a portable gaming console using a Raspberry Pi 4, capable of running retro games and most importantly staying within the Pokemon theme. Additionlly you will build and deploy a website to document the process
 
 ## Objective
 
