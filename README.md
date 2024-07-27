@@ -62,14 +62,23 @@ The budget for this project is $100.
 
 ## Timeline
 
-- **Week 1: 9/27** Project Introduction | Decide Team Lead | Team Assignments | Initial design phase.
-- **Week 2: 10/4** Project Proposal Presentation | Materials List Due | Must include individual roles & duties | Timeline and plan to complete project on time
-- **Week 3: 10/11** CAD modeling and 3D printing of the enclosure | Wireframing & UI of Website | Materials Ordered and Recieved
-- **Week 4: 10/18** Build | Presentation on Progress
-- **Week 5: 10/25** Build | Progress Meeting with Project Chair 
-- **Week 6: 11/1/24** Soft Dealine, Ideally begin testing and have website finished with updates here and there. | Presentation on Progress
-- **Week 7: 11/8** Project Deadline
-- **Week 8: 11/15** Project Presentation
+- **Week 1: 9/27**
+- Project Introduction | Decide Team Lead | Team Assignments | Initial design phase.
+- **Week 2: 10/4**
+- Project Proposal Presentation | Materials List Due | Must include individual roles & duties | Timeline and plan to complete project on time
+- **Week 3: 10/11**
+- CAD modeling and 3D printing of the enclosure | Wireframing & UI of Website | Materials Ordered and Recieved
+- **Week 4: 10/18**
+- Build | Presentation on Progress
+- **Week 5: 10/25**
+- Build | Progress Meeting with Project Chair 
+- **Week 6: 11/1/24**
+- Soft Dealine, Ideally begin testing and have website finished with updates here and there. | Presentation on Progress
+- **Week 7: 11/8**
+- Project Deadline
+- **Week 8: 11/15**
+- Project Presentation
+
 ## Deliverables
 
 - Completed handheld gaming console.
