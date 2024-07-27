@@ -1,4 +1,4 @@
-# New Member Project: Handheld Ganing Console & Website 
+# New Member Project: Handheld Gaming Console & Website 
 
 # Track A
 
