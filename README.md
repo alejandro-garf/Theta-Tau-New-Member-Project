@@ -1,4 +1,4 @@
-# Handheld Gaming Console using Raspberry Pi 4
+# New Member Project: Handheld Ganing Console & Website 
 
 ## Project Overview
 
@@ -6,12 +6,20 @@ Welcome to the Handheld Gaming Console project! In this project you will need to
 
 ## Objective
 
+### Part One
 - Design and build a custom enclosure for the handheld gaming console using CAD software (SolidWorks) and 3D printing.
 - Integrate the Raspberry Pi 4 with a suitable display, battery, and control interface.
 - Develop and configure software to run retro gaming emulators on the Raspberry Pi 4 (retroPie).
 - Ensure ergonomic design for comfortable handheld use.
 - Ensure it works and is playable. 
-- Create a custom website and blog that documents the process of completing the project. (host for free on github pages)
+
+### Part Two
+- Create a custom website and blog that documents the process of completing the project. 
+- Must contain landing page with mission statement
+- Muat contain step by step instrcutions on how the project was built (including who did what)
+- Must contain all files used for the project/3D printing
+- Must include code documentation of the website
+- Make it somewhat aesthetic 
 
 ## Team Assignments (Sample Example of split up responsibilities amongst majors)
 
