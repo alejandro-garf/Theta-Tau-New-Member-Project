@@ -1,8 +1,8 @@
 # New Member Project: Handheld Ganing Console & Website 
 
-## Project Overview
+## Project Overview **TRACK A**
 
-Welcome to the Handheld Gaming Console project! In this project you will need to design and build a portable gaming console using a Raspberry Pi 4, capable of running retro games and most importantly staying within the Pokemon theme. Additionlly you will build and deploy a website to document the process
+Welcome to the Handheld Gaming Console project! In this project you will need to design and build a portable gaming console using a Raspberry Pi, capable of running retro games and most importantly staying within the Pokemon theme. Additionlly you will build and deploy a website to document the process. 
 
 ## Objective
 
@@ -56,27 +56,23 @@ Welcome to the Handheld Gaming Console project! In this project you will need to
   - Develop any additional software needed for game management and control interface.
   - Develop website for blog (e.g using HTML & CSS ) ** NO TEMPLATES NO CHATGPT | MUST BE ABLE TO EXPLAIN CODE **
 
-## Budget
-
-The budget for this project is $100.
-
 ## Timeline
 
-- **Week 1: 9/27**
+- **9/27 | Week 1:**
 - Project Introduction | Decide Team Lead | Team Assignments | Initial design phase.
-- **Week 2: 10/4**
+- **10/4 | Week 2:**
 - Project Proposal Presentation | Materials List Due | Must include individual roles & duties | Timeline and plan to complete project on time
-- **Week 3: 10/11**
+- **10/11 | Week 3:**
 - CAD modeling and 3D printing of the enclosure | Wireframing & UI of Website | Materials Ordered and Recieved
-- **Week 4: 10/18**
+- **10/18 | Week 4:**
 - Build | Presentation on Progress
-- **Week 5: 10/25**
+- **10/25 Week 5:**
 - Build | Progress Meeting with Project Chair 
-- **Week 6: 11/1/24**
+- **11/1 | Week 6:**
 - Soft Dealine, Ideally begin testing and have website finished with updates here and there. | Presentation on Progress
-- **Week 7: 11/8**
+- **11/8 Week 7:**
 - Project Deadline
-- **Week 8: 11/15**
+- **11/15 Week 8:**
 - Project Presentation
 
 ## Deliverables
@@ -87,14 +83,16 @@ The budget for this project is $100.
 
 ## Getting Started
 
+### Budget
+
+The budget for this project is $110.
+
 ### Materials 
 
-- Raspberry Pi 4
-- 5-inch HDMI display
-- 3D printer (for printing the enclosure)
-- SolidWorks or other CAD software
-- RetroPie software
-- Various electronic components (buttons, joystick, battery, etc.)
+- Raspberry Pi  |  $50
+- HDMI display  |  $30
+- Materials for Frame | $15
+- Wires and other materials | $15
 
 ### Resources
 
