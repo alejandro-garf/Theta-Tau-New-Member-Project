@@ -1,4 +1,4 @@
-**# Handheld Gaming Console using Raspberry Pi 4
+# Handheld Gaming Console using Raspberry Pi 4
 
 ## Project Overview
 
@@ -77,4 +77,4 @@ The budget for this project is $100.
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/handheld-gaming-console.git
-   cd handheld-gaming-console**
+   cd handheld-gaming-console
