@@ -25,7 +25,7 @@ Welcome to the Handheld Gaming Console project! In this project you will need to
 
 ### Design Team
 
-#### Civil and Mechanical Engineers
+#### Civil and Mechanical Engineering Majors
 - **Tasks:**
   - Design the frame and enclosure of the console.
   - Use SolidWorks for CAD modeling.
@@ -34,14 +34,14 @@ Welcome to the Handheld Gaming Console project! In this project you will need to
 
 ### Hardware Team
 
-#### Electrical Engineers
+#### Electrical Engineering Majors 
 - **Tasks:**
   - Select and integrate a suitable display (e.g., 5-inch HDMI screen).
   - Design and implement the power supply system, including battery selection and charging circuit.
   - Integrate buttons and joystick controls.
   - Soldering
 
-#### Computer Engineers
+#### Computer Engineering Majors
 - **Tasks:**
   - Integrate the Raspberry Pi 4 with all hardware components.
   - Ensure proper connections and functionality of all integrated parts.
@@ -49,7 +49,7 @@ Welcome to the Handheld Gaming Console project! In this project you will need to
 
 ### Software Team
 
-#### Computer Scientists and Software Engineers
+#### Computer Science Majors
 - **Tasks:**
   - Install and configure the Raspberry Pi OS.
   - Install and configure retro gaming emulators (e.g., RetroPie).
